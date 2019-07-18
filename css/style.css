@@ -1,0 +1,44 @@
+/* COLORS */
+.bg1 {
+    background-image: url(../img/textura1.png);
+}
+
+.bg2 {
+    background-image: url(../img/textura2.png);
+}
+
+.bgmenu {
+    background: black;
+}
+
+/* PRINCIPAL */
+
+header img {
+    border-radius: 50%;
+}
+
+.icon {
+    font-size: 30px;
+    color: white;
+}
+
+i:hover {
+    color: gray;
+}
+
+/* CURSOS */
+
+.course {
+    padding: 50px 0;
+}
+
+/* PROJETOS */
+.decoration {
+    
+}
+
+/* FOOTER */
+
+footer {
+    padding: 20px 0;
+}
